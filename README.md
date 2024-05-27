@@ -1,1 +1,2 @@
 # World_Carbon_Emission_Analysis
+Welcome to a captivating data visualization project that delves into the intricate world of carbon and methane emissions. Through compelling visuals and insightful analysis, we aim to shed light on the global impact of these greenhouse gases. Explore the trends, patterns, and environmental consequences of these emissions in a visually engaging and informative manner. Join us on a journey to better understand the pressing issue of climate change through the power of data visualization.
